@@ -1,4 +1,4 @@
-baseURL = "https://gohugo.io/"
+baseURL = "https://gohugo-m17n.netlify.com/"
 paginate =  100
 defaultContentLanguage = "en"
 enableEmoji = true
